@@ -44,3 +44,5 @@ Construyo Aplicaciones Web y APIs Escalables.
 
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Untiveros-jav&theme=ayu)
+
+![snake](https://raw.githubusercontent.com/Untiveros-jav/Untiveros-jav/output/snake-dark.svg)
